@@ -595,6 +595,10 @@ img {
     .takeaways-cards{
         grid-template-columns: 1fr;
     }
+    .takeaways-cards .card p{
+        font-size: 0.8rem;
+        text-align: center;
+    }
     .details{
         padding: 1rem;
     }
